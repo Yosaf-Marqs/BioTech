@@ -8,7 +8,7 @@
 
 ### 🛠️Tecnologias
 
-- React
+- React Native
 - Java
 - Android Studio
 - Tensorflow
@@ -18,15 +18,5 @@
 ### 🚀 Instalação
 
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-projeto.git
 
-# Acesse a pasta
-cd nome-do-projeto
-
-# Instale as dependências
-npm install
-
-# Inicie o servidor
-npm start
 ```
